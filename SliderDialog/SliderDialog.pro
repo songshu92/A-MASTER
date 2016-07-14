@@ -11,8 +11,7 @@ HEADERS += include/CustomSlider.h \
            include/UiSliderDisplay.h 
 FORMS += res/ui/MainDialog.ui res/ui/SliderDisplay.ui
 SOURCES += src/CustomSlider.cpp \
-           src/main.cpp \
-           src/MainDialog.cpp \
+
            src/MainDialog.cpp \
 		   
            src/MainDialog.cpp \
