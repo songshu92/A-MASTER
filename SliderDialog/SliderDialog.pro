@@ -7,9 +7,8 @@ TARGET = SliderDialog
 
 # Input
 HEADERS += include/CustomSlider.h \
-           include/MainDialog.h \
-           include/UiSliderDisplay.h 
-FORMS += res/ui/MainDialog.ui res/ui/SliderDisplay.ui
+           include/MainDia
+FORMS += res/ui/MainDialog.ui rDisplay.ui
 SOURCES += src/CustomSlider.cpp \
            src/main.cpp \
            src/MainDialog.cpp \
